@@ -1,1 +1,5 @@
-requests
+requests~=2.31.0
+pyDes~=2.0.1
+pycryptodome
+crypto~=1.4.1
+gmssl
